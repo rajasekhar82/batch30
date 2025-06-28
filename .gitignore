@@ -8,5 +8,5 @@ i# Ignore temporary files
 
 # Ignore local configuration files
 
-.env
+/.env
 

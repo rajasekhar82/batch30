@@ -1,0 +1,12 @@
+i# Ignore temporary files
+
+*.tmp
+
+*.swp
+
+
+
+# Ignore local configuration files
+
+.env
+
